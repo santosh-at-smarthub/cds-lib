@@ -1,0 +1,25 @@
+{
+  "name": "cds-lib",
+  "version": "1.0.0",
+  "description": "Your package description",
+  "main": "index.js",
+  "module": "index.cjs",
+  "files": [
+    "index.js",
+    "index.cjs",
+    "style.css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santosh-at-smarthub/cds-lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/santosh-at-smarthub/cds-lib/issues"
+  },
+  "homepage": "https://github.com/santosh-at-smarthub/cds-lib#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
